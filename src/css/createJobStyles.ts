@@ -52,13 +52,28 @@ export const useCreateJobStyles = createStyles(() => ({
     minHeight: "200px",
   },
   heading: {
-    paddingLeft: "10px",
+    paddingLeft: "3px",
     height: "20%",
   },
   companyContent: {
     border: "1px solid #ebebeb",
     width: "100%",
-    height: "80%",
+    minHeight: "80%",
+    padding: "15px",
+    borderRadius: "5px",
+  },
+  serverContent: {
+    border: "1px solid #ebebeb",
+    width: "100%",
+    minHeight: "80%",
+    padding: "15px",
+    borderRadius: "5px",
+  },
+  documentsContent: {
+    border: "1px solid #ebebeb",
+    width: "100%",
+    minHeight: "80%",
+
     padding: "15px",
     borderRadius: "5px",
   },

@@ -76,11 +76,11 @@ const CreateJob = () => {
           </div>
           <div className={classes.serverContainer}>
             <h2 className={classes.heading}>Server</h2>
-            <div></div>
+            <div className={classes.serverContent}></div>
           </div>
           <div className={classes.documentsContainer}>
             <h2 className={classes.heading}>Documents</h2>
-            <div></div>
+            <div className={classes.documentsContent}></div>
           </div>
         </div>
       </div>
