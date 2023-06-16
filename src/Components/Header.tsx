@@ -45,7 +45,6 @@ const Header = () => {
               width={"100%"}
               height={"100%"}
               src="https://www.linkpicture.com/q/Ellipse-1_7.png"
-              className={classes.picture}
             />
           </div>
           <div>
